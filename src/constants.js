@@ -1,4 +1,4 @@
-export const SAT_API_KEY = "GTUD85-FUS3Q3-RQQARR-4OCZ";
+export const SAT_API_KEY = "Z4LPEL-X77V35-BYZ4XZ-5239";
 export const STARLINK_CATEGORY = "52";
 export const NEARBY_SATELLITE = "rest/v1/satellite/above";
 export const WORLD_MAP_URL = "https://unpkg.com/world-atlas@1/world/110m.json";
