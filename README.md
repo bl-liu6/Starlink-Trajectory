@@ -1,7 +1,7 @@
-# Starlink: React based Starlink Trajectory Visualization
+# Starlink Trajectory: Starlink Satellites Trajectory Web App
 
 
-The Starlink Trajectory Visualization Web Application is a React JS-based app developed to track Starlink satellites launched by SpaceX. The project was initiated based on a personal fascination with the universe and a desire to track Starlink satellites while observing the night sky. The goal was to create an intuitive web application that allows users to track nearby satellites based on their geographical location. The real-time satellite tracking functionality is enabled by [N2YO.com](https://api.n2yo.com).
+The Starlink Trajectory Visualization Web Application is a React-based app developed to track Starlink satellites launched by SpaceX. The project was initiated based on a personal fascination with the universe and a desire to track Starlink satellites while observing the night sky. The goal was to create an intuitive web application that allows users to track nearby satellites based on their geographical location. The real-time satellite tracking functionality is enabled by [N2YO.com](https://api.n2yo.com).
 
 ## Getting Started with Create React App
 
